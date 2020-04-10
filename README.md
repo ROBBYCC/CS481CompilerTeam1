@@ -1,4 +1,6 @@
 # CS481CompilerTeam1
+# Northern Arizona University
+# Spring 2020
 
 ## Updates to nap as of 3/31/20
 
